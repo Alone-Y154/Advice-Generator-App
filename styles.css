@@ -90,9 +90,19 @@ footer a:hover {
   color: yellow;
 }
 
-/* @media (max-width: 520px) {
+@media (max-width: 520px) {
   .card {
-    width: 400px;
-    height: 250px;
+    width: 350px;
+    height: 350px;
   }
-} */
+  .full-dice {
+    padding-left: 150px;
+  }
+  .pattern img{
+    width: 295px;
+    height: 16px;
+  }
+  footer {
+  margin-top: 7rem;
+  }
+}
